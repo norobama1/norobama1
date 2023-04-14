@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @norobama1
-- 👀 I’m interested in datascience 
+- 👀 I’m interested in datascience ,machine learning
 - 🌱 I’m currently learning ...data structures and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
